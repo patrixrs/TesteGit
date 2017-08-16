@@ -1,2 +1,2 @@
-# Laborátório de Programação 2
+# Laboratório de Programação 2
 ## Ries
